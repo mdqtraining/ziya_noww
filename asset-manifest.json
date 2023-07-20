@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ziya_noww/static/css/main.84e08fd3.css",
+    "main.js": "/ziya_noww/static/js/main.d857da80.js",
+    "static/js/787.305c4690.chunk.js": "/ziya_noww/static/js/787.305c4690.chunk.js",
+    "static/media/Untitled.png": "/ziya_noww/static/media/Untitled.f55476aef0be9c460faa.png",
+    "static/media/chatlogo.png": "/ziya_noww/static/media/chatlogo.4a01f125a9347146d204.png",
+    "index.html": "/ziya_noww/index.html",
+    "main.84e08fd3.css.map": "/ziya_noww/static/css/main.84e08fd3.css.map",
+    "main.d857da80.js.map": "/ziya_noww/static/js/main.d857da80.js.map",
+    "787.305c4690.chunk.js.map": "/ziya_noww/static/js/787.305c4690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e08fd3.css",
+    "static/js/main.d857da80.js"
+  ]
+}
